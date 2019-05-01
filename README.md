@@ -24,15 +24,13 @@ Class Sessions:  14 classes, 7 labs
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (5-8) LEARNING OUTCOMES]**
-
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Practice the technical interview communication process
+1. Talk through your thought process
+1. Effectively use the whiteboard to convey your thoughts
+1. Apply technical analysis such as complexity analysis and writing test cases to your technical interview
+1. Practice answering conceptual questions beyond pure algorithm implementation
 
 
 
