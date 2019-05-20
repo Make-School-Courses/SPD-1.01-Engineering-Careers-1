@@ -4,6 +4,8 @@
 
 This course focuses on engineering careers, particularly on learning the different types of engineers, problems they solve, tools they use, how they fit into the macro structure of an organization. Students will also focus on solving coding challenges and preparing for technical interviews.
 
+Students will also hone their resume and LinkedIn profiles to highlight their most recent accomplishments. They will also connect with 2-3 industry professionals to hear what their experinece was like while interviewing for companies and begining their careers.
+
 ## Prerequisites:  
 
 - [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture)
@@ -17,6 +19,7 @@ Students by the end of the course will be able to ...
 1. Effectively use the whiteboard to convey your thoughts
 1. Apply technical analysis such as complexity analysis and writing test cases to your technical interview
 1. Practice answering conceptual questions beyond pure algorithm implementation
+1. Prepare quality resume and LinkedIn profile to highlight your accomplishments
 
 ## Schedule
 
