@@ -35,7 +35,7 @@ Students by the end of the course will be able to ...
 |  1 |  Wed, May 29                      | [Communication Pt 1](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
 |  2 |  Mon, June 3                         | [Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) |
 |  3 |  Wed, June 5                     | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) |
-|  4 |  Mon, June 10                        | Industry Contacts |
+|  4 |  Mon, June 10                        | Lab - Find Industry Contacts, complete Resume, LinkedIn, etc. |
 |  5 |  Wed, June 12                     | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) |
 |  6 |  Mon, June 17                        | Lab - Find Industry Contacts, complete Resume, LinkedIn, etc. |
 |  7 |  Wed, June 19                     | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
