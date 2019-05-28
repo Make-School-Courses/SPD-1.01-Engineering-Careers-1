@@ -25,64 +25,25 @@ Students by the end of the course will be able to ...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE MAY 27]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
-
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
 **Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (11 class sessions)
+**Class Times:** Monday and Wednesday at 10:00–11:50am (11 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | [Lesson 1] |
-|  2 |  Mon, June 3                         | [Lesson 2] |
-|  3 |  Wed, June 5                     | [Lesson 3] / [Lesson 4] |
-|  4 |  Mon, June 10                        | [Lesson 5] |
-|  5 |  Wed, June 12                     | [Lesson 6] |
-|  6 |  Mon, June 17                        | [Lesson 7] / [Lesson 8] |
-|  7 |  Wed, June 19                     | [Lesson 9] |
-|  8 |  Mon, June 24                        | [Lesson 10] / [Lesson 11] |
-| 9 |  Wed, June 26                        | [Lesson 12] |
-| 10 |  Mon, July 1                           | [Lesson 13] |  
-| 11 |  Wed, July 3                        | Final Exams/Presentations |
+|  1 |  Wed, May 29                      | [Communication Pt 1](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
+|  2 |  Mon, June 3                         | [Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) |
+|  3 |  Wed, June 5                     | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) |
+|  4 |  Mon, June 10                        | Industry Contacts |
+|  5 |  Wed, June 12                     | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) |
+|  6 |  Mon, June 17                        | Lab - Find Industry Contacts, complete Resume, LinkedIn, etc. |
+|  7 |  Wed, June 19                     | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
+|  8 |  Mon, June 24                        | Lab - Find Industry Contacts, complete Resume, LinkedIn, etc. |
+| 9 |  Wed, June 26                        | [Whiteboard Coding](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit?usp=sharing) |
+| 10 |  Mon, July 1                           | [Complexity Analysis](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/edit?usp=sharing) |  
+| 11 |  Wed, July 3                        | Final Exam |
 
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE MAY 27]**
-**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] / [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] / [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] / [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |  
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
 
 ## Class Assignments
 
