@@ -47,10 +47,35 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-### Projects
+All assignments will be submitted in the [course tracker]( unless otherwise stated
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+### Technical Interview Assignments
+
+- [Technical Interview Worksheet](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c26a8b8e_0_0) - **Due Wed. 6/5**
+- [Solve 2 Problems from Career Cup](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0) - **Due Mon. 6/10**
+- [Write two things you learned from each interview.io video](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit#slide=id.g58da2ed25b_0_0) - **Due Wed. 6/12**
+- [Write code for a breakout problem](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit#slide=id.g58da2ed25f_0_0) - **Due Mon. 6/17**
+- [Do two Exercism problems](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit#slide=id.g58d3d40430_0_214) - **Due Mon. 6/24**
+- [Sign up for firebase.io and do 3 problems](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit#slide=id.g58da2ed2c7_0_0) - **Due Mon. 7/1**
+- [Do two more Exercism problems](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/edit#slide=id.g56ca828110_0_87) - **Due Wed. 7/3**
+
+### Industry Contact Assignments
+
+- Completed Resume - link in tracker once it is current; Resume is complete once you have finished the [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63). Use the [resume template](https://docs.google.com/document/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit) to get started
+- Completed LinkedIn - link to updated LinkedIn in tracker once complete. Complete once you have finished the [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn)
+- Make School Portfolio - click the checkbox in the tracker for when it’s completed
+- Sample Cover Letter - link to it in the tracker once it's complete. It is completed once you have finished the [cover leetter checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.o92llmt36ywl)
+- 3x Peer Behavioral interview practice - Complete 3 beahvorial interviews with peers as the interviee. Utilize these resources:
+    - [slides](https://drive.google.com/drive/u/1/folders/0Bx9iA8TAb2-0MlU2SWk3WWZBZW8)
+    - [sample questions](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
+    - [behavioral interview rubric](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
+    - [preparation grid](https://docs.google.com/document/d/1XBsElanFD7d_sWMACcm1ybVasit5rWKsO95zJ274L5w/edit?usp=sharing)
+- Get 3 industry contacts - write **name and company in tracker** so Jeff can reach out to companies by saying our students are already mentored by folks there! Use these resources:
+    - [email fundamentals guide](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
+    - [warm outreach guide](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit?usp=drive_web&ouid=102349547791146369642)
+    - [cold outreach guide](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit?usp=drive_web&ouid=102349547791146369642)
+
+
 
 ## Evaluation
 To pass this course you must meet the following requirements:
