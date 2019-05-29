@@ -47,7 +47,7 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-All assignments will be submitted in the [course tracker]( unless otherwise stated
+**All assignments will be submitted in the [course tracker](http://make.sc/trackspd1.01) unless otherwise stated**
 
 ### Technical Interview Assignments
 
@@ -61,21 +61,22 @@ All assignments will be submitted in the [course tracker]( unless otherwise stat
 
 ### Industry Contact Assignments
 
-- Complete the [Outcomes Preparation](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) Tutorial. This will help you with completing the below assignments
-- Completed Resume - link in tracker once it is current; Resume is complete once you have finished the [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63). Use the [resume template](https://docs.google.com/document/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit) to get started
-- Completed LinkedIn - link to updated LinkedIn in tracker once complete. Complete once you have finished the [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn)
-- Make School Portfolio - click the checkbox in the tracker for when it’s completed
-- Sample Cover Letter - link to it in the tracker once it's complete. It is completed once you have finished the [cover leetter checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.o92llmt36ywl)
-- 3x Peer Behavioral interview practice - Complete 3 beahvorial interviews with peers as the interviee. Utilize these resources:
-    - [slides](https://drive.google.com/drive/u/1/folders/0Bx9iA8TAb2-0MlU2SWk3WWZBZW8)
-    - [sample questions](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
-    - [behavioral interview rubric](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
-    - [preparation grid](https://docs.google.com/document/d/1XBsElanFD7d_sWMACcm1ybVasit5rWKsO95zJ274L5w/edit?usp=sharing)
-- Get 3 industry contacts - write **name and company in tracker** so Jeff can reach out to companies by saying our students are already mentored by folks there! Use these resources:
-    - [email fundamentals guide](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
-    - [warm outreach guide](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit?usp=drive_web&ouid=102349547791146369642)
-    - [cold outreach guide](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit?usp=drive_web&ouid=102349547791146369642)
-
+- Complete the [Outcomes Preparation](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) Tutorial. _This will help you with completing the below assignments._ **Completion due by Wed. 7/3**
+- Get 3 industry contacts - write **name and company in the tracker** so Jeff can reach out to companies by saying our students are already mentored by folks there! **Due by Mon. 6/17**
+    - Use these resources to help you:
+        - [email fundamentals guide](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
+        - [warm outreach guide](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit?usp=drive_web&ouid=102349547791146369642)
+        - [cold outreach guide](https://docs.google.com/presentation/d/14xM4JfFusj6rPMX9awvy1I42b12G39ifJjgBrLTRqrY/edit?usp=drive_web&ouid=102349547791146369642)
+- Update Your Make School Portfolio - add in new projects you've finished, update bio, etc. click the checkbox in the tracker for when it’s completed. **Due by Mon. 6/17**
+- Sample Cover Letter - link to it in the tracker once it's complete. It is completed once you have finished the [cover letter checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.o92llmt36ywl). **Due by Mon. 6/17**
+- Completed Resume - link in tracker once it is current; Resume is complete once you have finished the [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63). Use the [resume template](https://docs.google.com/document/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit) to get started. **Due by Mon. 6/24**
+- Completed LinkedIn - link to updated LinkedIn in tracker once complete. Complete once you have finished the [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn). **Due by Mon. 6/24**
+- 3x Peer Behavioral interview practice - Complete 3 beahvorial interviews with peers as the interviee. **This will be done in class Mon. 6/24**
+    - Use these resources to help you:
+        - [slides](https://drive.google.com/drive/u/1/folders/0Bx9iA8TAb2-0MlU2SWk3WWZBZW8)
+        - [sample questions](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
+        - [behavioral interview rubric](https://docs.google.com/spreadsheets/d/12J8UMWIAzk8Fx8T_NjdwXRMYU_I-2pX9G5d9vaVkucY/edit#gid=0)
+        - [preparation grid](https://docs.google.com/document/d/1XBsElanFD7d_sWMACcm1ybVasit5rWKsO95zJ274L5w/edit?usp=sharing)
 
 
 ## Evaluation
