@@ -64,7 +64,7 @@ Students by the end of the course will be able to ...
 ### Industry Contact Assignments
 
 - Complete the [Outcomes Preparation](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) Tutorial. _This will help you with completing the below assignments._ **Completion due by Wed. 7/3**
-- Get 3 industry contacts - write **name and company in the tracker** so Jeff can reach out to companies by saying our students are already mentored by folks there! **Due by Mon. 6/17**
+- Get 3 industry contacts - write **names and companies in a copy of [this table](https://docs.google.com/document/d/1xkgU-H97PNwHMBA361aEtM3yAGLnvj4Xl7diOagStTA/edit)** so Jeff can reach out to companies by saying our students are already mentored by folks there! **Due by Mon. 6/17**
     - Use these resources to help you:
         - [email fundamentals guide](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
         - [warm outreach guide](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit?usp=drive_web&ouid=102349547791146369642)
