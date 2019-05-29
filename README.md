@@ -61,6 +61,7 @@ All assignments will be submitted in the [course tracker]( unless otherwise stat
 
 ### Industry Contact Assignments
 
+- Complete the [Outcomes Preparation](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) Tutorial. This will help you with completing the below assignments
 - Completed Resume - link in tracker once it is current; Resume is complete once you have finished the [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63). Use the [resume template](https://docs.google.com/document/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit) to get started
 - Completed LinkedIn - link to updated LinkedIn in tracker once complete. Complete once you have finished the [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn)
 - Make School Portfolio - click the checkbox in the tracker for when it’s completed
