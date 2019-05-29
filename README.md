@@ -34,7 +34,7 @@ Students by the end of the course will be able to ...
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, May 27                         | **Memorial Day** |
-|  1 |  Wed, May 29                      | Lab - Find Industry Contacts, complete Resume, LinkedIn, etc. |
+|  1 |  Wed, May 29                      | [Lab - Find Industry Contacts, complete Resume, LinkedIn, etc.](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
 |  2 |  Mon, June 3                         | [Communication Pt 1](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
 |  3 |  Wed, June 5                     | [Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) |
 |  4 |  Mon, June 10                        | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) |
