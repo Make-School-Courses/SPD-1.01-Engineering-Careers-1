@@ -6,6 +6,8 @@ This course focuses on engineering careers, particularly on learning the differe
 
 Students will also hone their resume and LinkedIn profiles to highlight their most recent accomplishments. They will also connect with 2-3 industry professionals to hear what their experinece was like while interviewing for companies and begining their careers.
 
+**[Course Tracker](http://make.sc/trackspd1.01)**
+
 ## Prerequisites:  
 
 - [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture)
