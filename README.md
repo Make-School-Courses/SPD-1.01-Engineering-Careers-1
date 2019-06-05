@@ -36,7 +36,7 @@ By the end of the course, you will be able to ...
 |  1 |  Wed, May 29              | [Lab - Finding Industry Contacts and Reaching Out to Them](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
 |  2 |  Mon, June 3              | [Interview Communication Pt 1:](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
 |  3 |  Wed, June 5              | [Interview Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | Technical Interview Worksheet @ 11:59 pm |
-|  4 |  Mon, June 10             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) | Attempt 2 Problems of your choice from Career Cup @ 11:59 pm |
+|  4 |  Mon, June 10             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) | Attempt 2 new problems on LeetCode @ 11:59 pm |
 |  5 |  Wed, June 12             | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) | Write two things you learned from each interview.io video @ 11:59pm |
 |  6 |  Mon, June 17             | Lab - Peer Behavioral Interviews | Behavioral Interview prep **due by 10am** <br> Write code for a breakout problem @ 11:59pm <br> Names + Companies of 3 industry contacts @ 11:59pm
 |  7 |  Wed, June 19             | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
@@ -50,12 +50,12 @@ By the end of the course, you will be able to ...
 
 **All assignments will be submitted in the [course tracker](http://make.sc/trackspd1.01) unless otherwise stated**
 
-We'll be using various problems from interview prep websites such as [Career Cup](https://www.careercup.com/) and [Exercism](https://exercism.io/) for the technical interview assignments
+We'll be using various problems from interview prep websites such as [Leetcode](https://leetcode.com/) and [Exercism](https://exercism.io/) for the technical interview assignments
 
 ### Technical Interview Assignments
 
 - [Technical Interview Worksheet](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c26a8b8e_0_0) - **Due Wed. 6/5**
-- [Attempt 2 Problems of your choice from Career Cup](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0) - **Due Mon. 6/10**
+- [Attempt 2 Problems of your choice from Leetcode](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0) - **Due Mon. 6/10**
 - [Write two things you learned from each interview.io video](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit#slide=id.g58da2ed25b_0_0) - **Due Wed. 6/12**
 - [Write code for a breakout problem](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit#slide=id.g58da2ed25f_0_0) - **Due Mon. 6/17**
 - [Attempt two Exercism problems of your choice](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit#slide=id.g58d3d40430_0_214) - **Due Mon. 6/24**
