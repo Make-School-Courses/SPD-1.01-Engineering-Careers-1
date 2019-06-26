@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 |  7 |  Wed, June 19             | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
 |  8 |  Mon, June 24             | Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio | Attempt two Exercism problems of your choice @ 11:59pm |
 | 9 |  Wed, June 26              | [Whiteboard Coding](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit?usp=sharing) | All due @ 11:59pm: <br> Finish Outcomes Tutorial <br> Update Your Make School Portfolio <br> Sample Cover Letter <br> Completed Resume <br> Completed LinkedIn |
-| 10 |  Mon, July 1              | [Complexity Analysis](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/edit?usp=sharing) |  Sign up for firebase.io and attempt 3 problems of your choice @ 11:59pm |
+| 10 |  Mon, July 1              | [Complexity Analysis](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/edit?usp=sharing) |  Sign up for firecode.io and attempt 3 problems of your choice @ 11:59pm |
 | 11 |  Wed, July 3              | Final Exam | Attempt two Exercism problems of your choice - must be different from previous attempts @ 11:59pm |
 
 
