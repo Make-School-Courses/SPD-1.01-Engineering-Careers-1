@@ -19,6 +19,7 @@ By the end of the course, you will be able to ...
 1. Apply interviewing techniques to succeed in a real-world technical interview
 1. Practice answering behavioral questions for the soft-skills portion of interviewing
 1. Prepare a quality resume, portfolio, and LinkedIn profile to highlight your accomplishments
+1. Connect with industry contacts.
 
 ## Schedule
 
