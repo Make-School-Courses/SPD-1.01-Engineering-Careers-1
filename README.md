@@ -2,9 +2,7 @@
 
 ## Course Description
 
-This course focuses on engineering careers, particularly on how to prepare for technical interviews. You'll be able to clearly walk an interviewer through your thought process, clearly craft code on a whiteboard, and check your work to show improvements and drawbacks.
-
-You will also hone your resume and LinkedIn profiles to highlight your most recent accomplishments. You'll use these stunning upgrades to your resume and portfolio, to connect with 2-3 industry professionals to hear what their experinece was like while interviewing for companies and begining their careers.
+This course focuses on engineering careers, particularly on learning the different types of engineers, problems they solve, tools they use, how they fit into the macro structure of an organization. Students will also focus on solving coding challenges and preparing for technical interviews.
 
 **[Course Tracker](http://make.sc/trackspd1.01)**
 
