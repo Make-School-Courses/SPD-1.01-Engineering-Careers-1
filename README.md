@@ -1,5 +1,7 @@
 # SPD 1.01: Engineering Careers 1
 
+This is a legacy course—find the most up to date version of this course syllabus [here](https://github.com/Make-School-Courses/SPD-1.4-Engineering-Careers-Communication-And-Interviewing)
+
 ## Course Description
 
 This course focuses on engineering careers, particularly on learning the different types of engineers, problems they solve, tools they use, how they fit into the macro structure of an organization. Students will also focus on solving coding challenges and preparing for technical interviews.
